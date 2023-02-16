@@ -1,0 +1,2 @@
+// there is no commet here
+/* there is no comment here absolutely*/
