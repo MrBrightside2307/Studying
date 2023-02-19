@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = [["holiday",5],["day",3]];
