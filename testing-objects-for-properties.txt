@@ -1,0 +1,16 @@
+function checkObj(obj, checkProp) {
+  // Only change code below this line
+    let myObj = {
+    gift: "pony",
+    pet: "kitten",
+    bed: "sleight",
+    city: "Seattle",
+  };
+  if(obj.hasOwnProperty(checkProp)){
+  return obj[checkProp];
+  } else { 
+    return "Not Found";
+  }
+
+  // Only change code above this line
+}
